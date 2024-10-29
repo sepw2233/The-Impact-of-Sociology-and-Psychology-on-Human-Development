@@ -5,7 +5,7 @@
 
 
 # ignore these plugins
-/plugins/hello.php
+/plugins/debug-bar
 
 
 
